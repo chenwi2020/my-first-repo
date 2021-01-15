@@ -1,1 +1,2 @@
 Intiial description file for feature1
+New line created in branch BR-2
